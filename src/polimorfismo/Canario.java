@@ -7,7 +7,7 @@ package polimorfismo;
 
 /**
  *
- * @author paipo
+ * @author LeidyA
  */
 public class Canario implements PuedeCantar{
 
